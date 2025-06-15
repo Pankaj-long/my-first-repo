@@ -1,1 +1,1 @@
-This is a demo for git &mp; github 
+This is a demo for git &mp; github.
